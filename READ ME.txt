@@ -1,0 +1,5 @@
+* both of computer must be on the same network 
+- scan for Network or connect a network you know with password 
+- upload the private ip code (c++ code on IDE)
+- put ESP32 private Ip on the Keylogger code and start the program on second Pc
+- on first Pc, upload the Keystrokes code and show it on seriel monitor
